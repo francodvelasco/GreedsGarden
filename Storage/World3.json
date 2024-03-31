@@ -1,0 +1,173 @@
+[
+    {
+        "column": 2,
+        "row": 0,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 3,
+        "row": 0,
+        "type": "tree",
+        "tree_stage": 4,
+        "height": 2
+    },
+    {
+        "column": 4,
+        "row": 0,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 3,
+        "row": 1,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 6,
+        "row": 1,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 0,
+        "row": 2,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 5,
+        "row": 2,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 6,
+        "row": 2,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 0,
+        "row": 3,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 1,
+        "row": 3,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 5,
+        "row": 3,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 6,
+        "row": 3,
+        "type": "tree",
+        "tree_stage": 4,
+        "height": 2
+    },
+    {
+        "column": 0,
+        "row": 4,
+        "type": "agriculture",
+        "height": 1
+    },
+    {
+        "column": 1,
+        "row": 4,
+        "type": "agriculture",
+        "height": 1
+    },
+    {
+        "column": 2,
+        "row": 4,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 5,
+        "row": 4,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 6,
+        "row": 4,
+        "type": "tree",
+        "tree_stage": 4,
+        "height": 2
+    },
+    {
+        "column": 0,
+        "row": 5,
+        "type": "house",
+        "house_type": "poor",
+        "height": 2
+    },
+    {
+        "column": 1,
+        "row": 5,
+        "type": "house",
+        "house_type": "poor",
+        "height": 1
+    },
+    {
+        "column": 2,
+        "row": 5,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 5,
+        "row": 5,
+        "type": "plain",
+        "height": 2
+    },
+    {
+        "column": 6,
+        "row": 5,
+        "type": "agriculture",
+        "height": 3
+    },
+    {
+        "column": 0,
+        "row": 6,
+        "type": "house",
+        "house_type": "poor",
+        "height": 2
+    },
+    {
+        "column": 1,
+        "row": 6,
+        "type": "agriculture",
+        "height": 2
+    },
+    {
+        "column": 2,
+        "row": 6,
+        "type": "plain",
+        "height": 1
+    },
+    {
+        "column": 5,
+        "row": 6,
+        "type": "plain",
+        "height": 2
+    },
+    {
+        "column": 6,
+        "row": 6,
+        "type": "house",
+        "house_type": "rich",
+        "height": 3
+    },
+]
+
+
